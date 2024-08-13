@@ -507,7 +507,7 @@ main {
 .navbar-link.active { color: var(--orange-yellow-crayola); }
 
 
-
+.project-link:hover{color: antiquewhite;}
 
 
 /*-----------------------------------*\
