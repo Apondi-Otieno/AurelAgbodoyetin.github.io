@@ -509,6 +509,18 @@ main {
 
 .project-link:hover{color: antiquewhite;}
 
+@media (max-width: 768px) {
+  .download-btn {
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background:#735c15;
+    border-radius:10px;
+  }
+}
 
 /*-----------------------------------*\
   #ABOUT
