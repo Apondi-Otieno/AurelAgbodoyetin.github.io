@@ -1915,9 +1915,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   .download-btn ion-icon {
     margin-bottom: 5px; /* Adjust as needed for spacing between icon and text */
   }
-  
+ 
   .download-btn span {
     font-size: 15px;
+    color: azure;
   }
   
   .download-btn .top {
